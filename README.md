@@ -1,2 +1,2 @@
 # Cavallo-JSChess
-This is repository for a chess engine written in JavaScript. 
+This is a repository for a chess engine written in JavaScript. 
